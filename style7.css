@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+}
+
+.p1 {
+  text-align: center;
+}
+
+#in1 {
+  margin-left: 30px;
+  text-align: center;
+  border-radius: 10px;
+  border: solid blue;
+  outline: none;
+}
+
+h3 {
+  text-align: center;
+}
+
+#in2 {
+  margin-left: 30px;
+  text-align: center;
+  border-radius: 10px;
+  border: solid blue;
+  outline: none;
+}
+
+button {
+  text-align: center;
+  width: 300px;
+  border-radius: 10px;
+  border: solid blue;
+  outline: none;
+  background-color: blue;
+  color: white;
+  margin-left: 37px;
+}

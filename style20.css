@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+}
+
+.mj {
+  margin-left: 245px;
+  white-space: nowrap;
+}
+
+img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  transform: translate(5px,10px);
+}
+
+.te {
+  white-space: nowrap;
+  margin-left: -150px;
+  color: #65676b;
+}
+
+.d1 {
+  display: flex;
+  white-space: nowrap;
+}
+
+.bf {
+  margin-top: -15px;
+  margin-left: 205px;
+}
+
+.ct {
+  text-align: center;
+  margin-top: 27px;
+  padding-bottom: 0px;
+  font-size: 15px;
+}

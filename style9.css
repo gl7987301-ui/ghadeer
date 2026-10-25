@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+}
+
+#pass {
+  width: 340px;
+  margin-left: 15px;
+  border-radius: 10px;
+  border: solid blue;
+  text-align: center;
+  outline: none;
+}
+
+button {
+  text-align: center;
+  width: 300px;
+  border-radius: 10px;
+  border: solid blue;
+  outline: none;
+  background-color: blue;
+  color: white;
+  margin-left: 37px;
+}

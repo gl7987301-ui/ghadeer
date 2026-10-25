@@ -1,0 +1,20 @@
+.p1 {
+  padding-left: 23px;
+}
+
+#de {
+  outline: none;
+}
+.p2 {
+  padding-left: 6px;
+}
+
+button {
+  text-align: center;
+  width: 300px;
+  border-radius: 10px;
+  margin-left: 35px;
+  border: solid blue;
+  background-color: blue;
+  color: white;
+}

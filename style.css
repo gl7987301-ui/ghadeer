@@ -1,0 +1,74 @@
+.h1 {
+  padding-left: 140px;
+  white-space: nowrap;
+}
+.h2 {
+  padding-left: 160px;
+  white-space: nowrap;
+  
+}
+.i {
+  color: red;
+  border: solid blue;
+}
+.log {
+  padding-left: 241px ;
+white-space: nowrap;
+}
+
+body {
+  zoom: 100%; /* يمكنك تغير النسبة حسب رغبتك، مثل 110% أو 120% */
+}
+.gl {
+  width: 300px;
+  height: 30px;
+  margin-left: 35px;
+  border: solid blue;
+  border-radius: 10px;
+  outline: none;
+}
+.gl::placeholder {
+  text-align: center;
+}
+.l {
+  padding-left: 202px;
+  white-space: nowrap;
+}
+.pw {
+  width: 300px;
+  height: 30px;
+  margin-left: 35px;
+  border: solid blue;
+  border-radius: 10px;
+  outline: none;
+}
+.pw::placeholder {
+  text-align: center;
+}
+.ll {
+  padding-left: 317px;
+}
+a {
+  margin-left: 130px;
+
+}
+.but {
+  margin-left: 35px;
+  width: 305px;
+  background-color: blue;
+  border-radius: 10px;
+  border: none;
+  height: 30px;
+  color: white;
+}
+
+.bu {
+  margin-top: 60px;
+  margin-left: 35px;
+  width: 305px;
+  background-color: white;
+  border-radius: 10px;
+  border: solid blue;
+  height: 50px;
+  color: blue;
+}

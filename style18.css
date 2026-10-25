@@ -1,0 +1,13 @@
+h1 {
+  text-align: center
+}
+
+button {
+  text-align: center;
+  width: 300px;
+  border-radius: 10px;
+  margin-left: 35px;
+  border: solid blue;
+  background-color: blue;
+  color: white;
+}

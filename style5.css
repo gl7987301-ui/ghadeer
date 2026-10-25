@@ -1,0 +1,38 @@
+h1 {
+  padding-left: 75px;
+}
+#i1 {
+  width: 38%;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  text-align: center;
+  outline: none;
+  border: solid blue;
+  border-radius: 10px;
+}
+
+#i2 {
+  width: 38%;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  text-align: center;
+  outline: none;
+  border: solid blue;
+  border-radius: 10px;
+}
+
+.l2 {
+  display: inline;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+button {
+  text-align: center;
+  width: 300px;
+  border-radius: 10px;
+  margin-left: 35px;
+  border: solid blue;
+  background-color: blue;
+  color: white;
+}

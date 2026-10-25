@@ -1,0 +1,67 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 100%;
+    height: auto;
+
+}
+
+.p1 {
+   color: white;
+   padding-left: 250px;
+   padding-right: 90px;
+   background-image: url("3.jpg");
+   width: 30px;
+   height: 30px;
+   white-space: nowrap;
+   background-repeat: no-repeat;
+   background-size: 40px 40px;
+   background-position: 320px;
+}
+
+.p2 {
+    color: white;
+    padding-left: 110px;
+    white-space: nowrap;
+}
+
+.d1 {
+    width: 100%;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+.d2 {
+    display: flex;
+    white-space: no-repeat;
+}
+
+.f1 {
+    display: flex;
+}
+
+.d3 {
+    display: flex;
+}
+
+.b2 {
+    text-decoration: none;
+    margin-left: 30px;
+    margin-top: -6px;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 50px;
+}
+
+.d5 {
+    background-color: black;
+}
+
+.b4 {
+    margin-left: 30px;
+}
