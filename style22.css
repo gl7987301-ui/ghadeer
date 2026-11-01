@@ -1,0 +1,150 @@
+.b1 {
+  margin-left: 320px;
+  background-color: black;
+  border: solid black;
+  color: white;
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+  padding-bottom: 50px;
+  padding-top: -20px;
+}
+
+.h2 {
+  color: blue;
+  text-align: center;
+}
+
+.sy {
+  margin-left: 300px;
+  color: #000;
+}
+
+.rf {
+  background-color: white;
+  margin-left: 150px;
+  border: none;
+}
+
+.h22 {
+  text-align: right;
+}
+
+.tl {
+  display: flex;
+  margin-left: 290px;
+  border: none;
+  background-color: white;
+  font-size: 20px;
+}
+
+.ft {
+  display: flex;
+  margin-left: 15px;
+  border: none;
+  background-color: white;
+  font-size: 20px;
+}
+
+.bsat {
+  display: flex;
+}
+
+.p0 {
+   padding-left: 280px;
+   padding-right: 90px;
+   background-image: url("3.jpg");
+   width: 30px;
+   height: 30px;
+   white-space: nowrap;
+   background-repeat: no-repeat;
+   background-size: 40px 40px;
+   background-position: 340px;
+   color: black;
+}
+
+.da {
+  padding-left: 280px;
+  color: #65676B;
+}
+
+.d1 {
+    width: 100%;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+  width: 130%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  display: block;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  color: white;
+  zoom: 100%;
+}
+
+.bf {
+  padding-left: 320px;
+  white-space: nowrap;
+   color: black;
+}
+
+.buut {
+    padding: 0;
+    margin: 0;
+    display: inline; /* بدلاً من block أو flex العادية ليتطابق مع حجم المحتوى تماماً */
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: none;
+    line-height: 0;       /* يمنع أي فراغات نصية رأسية */
+    background-color: white;
+}
+
+
+form {
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+
+.im {
+  margin-left: 80px;
+  margin-right: 30px;
+  display: flex;
+}
+
+.im2 {
+  margin-left: 30px;
+  display: flex;
+}
+
+.bs {
+  display: flex;
+}
+
+.im3 {
+  margin-left: 60px;
+}
+
+.ss {
+  color: #000;
+  text-align: center;
+}
+
+video {
+  width: 391px;
+  height: 500px;
+  margin: 0;
+  padding: 0;
+  display: block;
+  object-fit: cover;
+}
