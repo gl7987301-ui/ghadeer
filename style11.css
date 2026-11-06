@@ -174,11 +174,25 @@ form {
   margin-left: 80px;
   margin-right: 30px;
   display: flex;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 10px;
+  border: solid black;
 }
 
 .im2 {
   margin-left: 30px;
   display: flex;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  padding-top: 12px;
+  padding-left: 10px;
+  border: solid black;
 }
 
 .bs {
@@ -187,6 +201,13 @@ form {
 
 .im3 {
   margin-left: 60px;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  padding-top: 3px;
+  padding-left: 6px;
+  border: solid black;
 }
 
 .ss {
