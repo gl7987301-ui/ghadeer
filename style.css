@@ -1,10 +1,11 @@
 .h1 {
-  padding-left: 140px;
-  white-space: nowrap;
+  text-align: center;
+  margin-left: -250px;
 }
 .h2 {
-  padding-left: 160px;
   white-space: nowrap;
+  text-align: center;
+  line-height: 1px;
   
 }
 .i {
@@ -71,4 +72,29 @@ a {
   border: solid blue;
   height: 50px;
   color: blue;
+}
+
+.ma {
+  margin-left: 320px;
+  background-color: black;
+  border: solid black;
+  color: white;
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+  /* استبدل هذا باسم الكلاس الخاص بالزر أو العنصر الحاضن */
+  display: flex;
+  align-items: center;    /* لتوسيط العنصر عمودياً (في المنتصف تماماً) */
+  justify-content: center; /* لتوسيط العنصر أفقياً */
+
+}
+
+.G {
+  border: none;
+  background-color: white;
+}
+
+.fx {
+  display: flex;
+  white-space: nowrap;
 }
